@@ -19,7 +19,7 @@ Hard Way (don't add a resource) :
 - create a folder in your core / es_extended for esx users named "load"
 - drag the files in the folder
 - add this to fxmanifest.lua / _resource.lua :
-
+```lua
 files {
 	"load/index.html",
 	"load/music/load.mp3",
@@ -30,6 +30,7 @@ files {
 	}
 	
 loadscreen "load/index.html"
+```
 
 How to change the music :
 
