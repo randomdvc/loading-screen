@@ -35,7 +35,7 @@ loadscreen "load/index.html"
 How to change the music :
 
 - Upload the music somewhere and copy the music link (mp3 format)
-- Replace the link on js/spykemusic.js:72
+- Replace the link on js/keepcoolmusic.js:72
 
 How to change the logo :
 
