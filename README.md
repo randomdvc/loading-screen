@@ -4,7 +4,7 @@ Just a loading screen with logo reacting to music and js particles made by KeepC
 Requirements :
 
 - A PNG LOGO in 1:1 scale
-- A Music on discord past 24 hours
+- A Music on mp3 format
 
 How to add it to your server :
 
